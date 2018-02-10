@@ -1,3 +1,3 @@
-# AI-DeepLearning-Vectorization-Demo
+# AI-DeepLearning-Python_Vectorization-Demo
 
 This is a simple yet powerful demonstration of the virtues, and unmatched efficiency of using "Python Vectorization" techniques as opposed to using "Explicit For Loops" when performing high dimensional matrix calculations. In this case the matrix array is the 1,000,000 nth order. The code stacks the two techniques side-by-side while timing how long it takes for each procedure to compute. The Vectorization technique was average 1,700 times faster than the Loop technique on my CPU. Wow!. You can run this code as-is on your Jupyter Notebook and see the results for yourself. 
